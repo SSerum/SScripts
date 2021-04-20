@@ -1,4 +1,4 @@
-mport me.travis.wurstplus.wurstplusmod.util.WurstplusCapeUtil;
+import me.travis.wurstplus.wurstplusmod.util.WurstplusCapeUtil;
 import me.travis.wurstplus.wurstplusmod.util.WurstplusPlayerBuilder;
 import net.minecraft.client.Minecraft;
 
