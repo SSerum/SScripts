@@ -1,2 +1,2 @@
-# CodeTransfer
-#This is a code transfer because i have several pc's that I code on
+# SScripts
+#This is mainly to just transfer code from one Pc of mine to another easily so cope
